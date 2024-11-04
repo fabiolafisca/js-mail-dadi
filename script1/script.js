@@ -10,9 +10,9 @@ Non è necessario provvedere alla validazione delle email
 let mail = prompt("Inserisci la tua mail");
 // Lista email
 let email = [
-    "utente@hotmail.com",
-    "utente@hotmail.com",
-    "utente@hotmail.com",
+    "fabiolafisca@hotmail.com",
+    "fabiolafisca1@hotmail.com",
+    "fabiolafisca2@hotmail.com",
 ];
 
 // Controlla che sia nella lista di chi può accedere
